@@ -1,0 +1,1 @@
+a laravel made Number Guessing Casino platform that enables a great opportunity to start your own Online Prediction, Casino & Guessing Website. There were an estimated 2.8 billion Predictors across the globe 
